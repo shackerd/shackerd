@@ -5,7 +5,7 @@
 ### ⚓ The Captain's Log
 * 🌊 **Navigating:** Currently charting the treacherous waters of Rust.
 * 🗺️ **Expeditions:** Looking to join crews on Open Source adventures.
-* 🦜 **Parrot Talk:** Ask me about C#/.NET, (Type|Java)cript, RegEX (Roaar!).
+* 🦜 **Parrot Talk:** Ask me about C#/.NET, (Type|Java)script, RegEX (Roaar!), Networking, Linux, Containers (podman/docker) and little bit of Rust.
 
 ### 🛠️ The Armory
 | Weaponry | Mastery |
