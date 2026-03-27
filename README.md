@@ -1,4 +1,4 @@
-# 🏴‍☠️ Ahoy, I'm shackerd! 
+# ⚔️ Ahoy, I'm shackerd! 
 
 **Sailing the digital currents and looting bugs one commit at a time.**
 
