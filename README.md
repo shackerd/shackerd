@@ -1,4 +1,4 @@
-# 👾 Init: shackerd (The Bit-Wise Captain)
+# 👾 Init: The Bit-Wise Captain Game
 
 **Navigating the 8-bit seas and making bugs walk the digital plank.**
 
