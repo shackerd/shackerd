@@ -1,21 +1,25 @@
-# ⚔️ Ahoy, I'm shackerd! 
+# 👾 Init: shackerd (The Bit-Wise Captain)
 
-**Sailing the digital currents and looting bugs one commit at a time.**
+**Navigating the 8-bit seas and making bugs walk the digital plank.**
 
-### ⚓ The Captain's Log
-* 🌊 **Navigating:** Currently charting the treacherous waters of Rust.
-* 🗺️ **Expeditions:** Looking to join crews on Open Source adventures.
-* 🦜 **Parrot Talk:** Ask me about C#/.NET, (Type|Java)script, RegEX (Roaar!), Networking, Linux, Containers (podman/docker) and little bit of Rust.
+### 🕹️ Quest Log
 
-### 🛠️ The Armory
-| Weaponry | Mastery |
+    🗺️ World Map: Currently exploring the Rust kingdom.
+
+    ⚔️ Party Recruitment: Open for high-stakes Open Source raids.
+
+    📜 Lore: Ask me about C#/.NET, (Type|Java)script, RegEX (the dragon in the dungeon!), Networking, Linux, and Containers.
+
+### 🛠️ The Inventory
+|Item Class|Equipment
 | :--- | :--- |
-| **Steel** | Podman / Docker / K8S / C# / JS / Git / Linux |
-| **Navigation** | Rust / AI's Sea, tokens everywhere |
+|Legendary Gear|	Podman / Docker / K8S / C# / JS / Git / Linux|
+|Ascended Gear|C#/.NET, (Type\|Java)script, RegEX, Networking, Linux, Containers (podman/docker) and little bit of Rust|
+|Enchanted Items|	Rust / LLM Prompting / Token-based sorcery|
 
 ---
+Status: `0xDEADBEEF`
+---
 
-> "Code don't sail itself, and bugs don't walk the plank on their own."
-
-### 🏆 The Bounty
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shackerd&show_icons=true)
+### 🏆 Achievements
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shackerd&show_icons=true)
