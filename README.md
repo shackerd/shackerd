@@ -1,4 +1,4 @@
-# 👾 Init: The Bit-Wise Captain Game
+# 👾 Init: The Bit-Wise Captain
 
 **Navigating the 8-bit seas and making bugs walk the digital plank.**
 
