@@ -14,7 +14,7 @@
 |Item Class|Equipment
 | :--- | :--- |
 |Legendary Gear|	Podman / Docker / K8S / C# / JS / Git / Linux|
-|Ascended Gear|C#/.NET, (Type\|Java)script, RegEX, Networking, Linux, Containers (podman/docker) and little bit of Rust|
+|Ascended Gear|C#/.NET, (Type\|Java)script, RegEX, Networking, Linux, Containers (podman/docker)|
 |Enchanted Items|	Rust / LLM Prompting / Token-based sorcery|
 
 ---
