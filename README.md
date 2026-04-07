@@ -13,8 +13,8 @@
 ### 🛠️ The Inventory
 |Item Class|Equipment
 | :--- | :--- |
-|Legendary Gear|	Podman / Docker / K8S / C# / JS / Git / Linux|
-|Ascended Gear|C#/.NET, (Type\|Java)script, RegEX, Networking, Linux, Containers (podman/docker)|
+|Legendary Gear|Containers (podman/docker) / C#\|.NET / JS\|TS / Git / Linux|
+|Ascended Gear|RegEX / Networking / K8S|
 |Enchanted Items|	Rust / LLM Prompting / Token-based sorcery|
 
 ---
